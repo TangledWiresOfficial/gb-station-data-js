@@ -295,6 +295,11 @@ export const Lines = {
     colour: "#FF6200",
     tocs: ["glasgowSubway"],
   },
+  lutonDart: {
+    displayName: TOCs.lutonDart.displayName,
+    colour: TOCs.lutonDart.colour,
+    tocs: ["lutonDart"],
+  },
 } as const satisfies Record<string, Line>;
 
 export type LineId = keyof typeof Lines;
