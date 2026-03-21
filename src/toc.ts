@@ -76,6 +76,10 @@ goviaThameslinkRailway: {
     displayName: "Lumo",
     colour: "#2b6ef5",
   },
+  lutonDart: {
+    displayName: "Luton DART",
+    colour: "#d6ae00",
+  },
   northernTrains: {
     displayName: "Northern",
     colour: "#0f0d78",

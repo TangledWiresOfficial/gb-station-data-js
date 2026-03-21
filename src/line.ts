@@ -291,9 +291,14 @@ export const Lines = {
     tocs: ["edinburghTrams"],
   },
   glasgowSubway: {
-    displayName: "Glasgow Subway",
-    colour: "#FF6200",
+    displayName: TOCs.glasgowSubway.displayName,
+    colour: TOCs.glasgowSubway.colour,
     tocs: ["glasgowSubway"],
+  },
+  lutonDart: {
+    displayName: TOCs.lutonDart.displayName,
+    colour: TOCs.lutonDart.colour,
+    tocs: ["lutonDart"],
   },
 } as const satisfies Record<string, Line>;
 
