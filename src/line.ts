@@ -285,6 +285,11 @@ export const Lines = {
   },
   
   // other metro systems
+  blackpoolTramway: {
+    displayName: TOCs.blackpoolTramway.displayName,
+    colour: TOCs.blackpoolTramway.colour,
+    tocs: ["blackpoolTramway"],
+  },
   edinburghTrams: {
     displayName: TOCs.edinburghTrams.displayName,
     colour: TOCs.edinburghTrams.colour,

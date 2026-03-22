@@ -8,6 +8,10 @@ export const TOCs = {
     displayName: "Avanti West Coast",
     colour: "#004354",
   },
+  blackpoolTramway: {
+    displayName: "Blackpool Tramway",
+    colour: "#56004E",
+  },
   c2c: {
     displayName: "C2C",
     colour: "#b7007c",
