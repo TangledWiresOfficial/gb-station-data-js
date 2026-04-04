@@ -146,6 +146,7 @@ export const Stations = {
   boxHillAndWesthumble: {displayName: "Box Hill & Westhumble", lines: ["southern"]},
   brandon: {displayName: "Brandon", lines: ["eastMidlandsRailway"]},
   brentCross: {displayName: "Brent Cross", lines: ["northern"]},
+  brentCrossWest: {displayName: "Brent Cross West", lines: ["thameslink"]},
   brentwood: {displayName: "Brentwood", lines: ["elizabeth"]},
   bridgeOfOrchy: {displayName: "Bridge of Orchy", lines: ["csHighlander"]},
   bridgeStreet: {displayName: "Bridge Street", lines: ["glasgowSubway"]},
