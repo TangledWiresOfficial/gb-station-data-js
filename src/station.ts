@@ -849,7 +849,7 @@ export const Stations = {
   penzance: {displayName: "Penzance", lines: ["crossCountry"]},
   perivale: {displayName: "Perivale", lines: ["central"]},
   perth: {displayName: "Perth", lines: ["csHighlander"]},
-  peterborough: {displayName: "Peterborough", lines: ["crossCountry", "thameslink", "greatNorthern", "eastMidlandsRailway", "grandCentral"],},
+  peterborough: {displayName: "Peterborough", lines: ["crossCountry", "thameslink", "greatNorthern", "eastMidlandsRailway", "grandCentral"]},
   pettsWood: {displayName: "Petts Wood", lines: ["southeastern", "thameslink"]},
   pevenseyAndWestham: {displayName: "Pevensey & Westham", lines: ["southern"]},
   pevenseyBay: {displayName: "Pevensey Bay", lines: ["southern"]},
