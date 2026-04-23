@@ -1,4 +1,4 @@
-import tocs from "./data/tocs.json" with { type: "json" };
+import tocs from "./data/tocs.json";
 
 export type TOC = {
   displayName: string;

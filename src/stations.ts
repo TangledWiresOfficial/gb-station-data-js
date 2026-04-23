@@ -1,6 +1,6 @@
 import {LineId} from "./lines.js";
 
-import stations from "./data/stations.json" with { type: "json" };
+import stations from "./data/stations.json";
 
 /**
  * A train station

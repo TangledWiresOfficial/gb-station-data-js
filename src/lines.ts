@@ -1,6 +1,6 @@
 import {TOCId} from "./tocs.js";
 
-import lines from "./data/lines.json" with { type: "json" };
+import lines from "./data/lines.json";
 
 /**
  * A train line
