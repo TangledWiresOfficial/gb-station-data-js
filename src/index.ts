@@ -1,5 +1,5 @@
-export * from "./line";
-export * from "./station";
-export * from "./toc";
+export * from "./lines.js";
+export * from "./stations.js";
+export * from "./tocs.js";
 
-export const VERSION = "5.0.0";
+export const VERSION = "6.0.1";
