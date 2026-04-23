@@ -25,7 +25,7 @@ export type Line = {
 /**
  * A list of all {@link Line}s
  */
-export const Lines = lines as Record<keyof typeof lines, Line>;
+export const Lines = lines as Record<LineId, Line>;
 
-export type LineId = keyof typeof Lines;
+export type LineId = keyof typeof lines;
 export const lineIds = Object.keys(Lines) as LineId[];

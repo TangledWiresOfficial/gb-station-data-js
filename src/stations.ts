@@ -13,7 +13,7 @@ export type Station = {
 /**
  * A list of all {@link Station}s
  */
-export const Stations = stations as Record<keyof typeof stations, Station>;
+export const Stations = stations as Record<StationId, Station>;
 
-export type StationId = keyof typeof Stations;
+export type StationId = keyof typeof stations;
 export const stationIds = Object.keys(Stations) as StationId[];
