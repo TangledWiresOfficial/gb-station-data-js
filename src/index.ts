@@ -1,5 +1,6 @@
 export * from "./lines.js";
 export * from "./stations.js";
 export * from "./tocs.js";
+export * from "./categories.js";
 
 export const VERSION = "11.0.0";

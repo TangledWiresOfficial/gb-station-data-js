@@ -1,4 +1,5 @@
 import {TOCId} from "./tocs.js";
+import {CategoryId} from "./categories.js";
 
 import lines from "./data/lines.json";
 
@@ -10,6 +11,11 @@ export type Line = {
    * The display name of this line
    */
   displayName: string;
+
+  /**
+   * The category this line is in
+   */
+  category: CategoryId;
 
   /**
    * The brand colour of this line
